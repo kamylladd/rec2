@@ -1,0 +1,22 @@
+body{
+    background-color: khaki;
+}
+h1{
+    font-size:30px;
+    color: chocolate;
+    text-align: left;
+    margin: 15px;
+}
+p{
+    font-size: 20px;
+    text-align: left;
+    margin: 15px;
+    margin-right: 200px;
+}
+
+img{
+    width:270px;
+    height: 270px;
+margin: 15px;
+margin-left: 40px;
+}
