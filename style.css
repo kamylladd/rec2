@@ -20,3 +20,16 @@ img{
 margin: 15px;
 margin-left: 40px;
 }
+header{
+    background-color: beige;
+    font-size: 25px;
+    text-align: center;
+    
+}
+.lista_cabecalho{
+    display: flex;
+}
+.item_lista_cabecalho{
+    padding-left: 150px;
+    list-style: none;
+}
