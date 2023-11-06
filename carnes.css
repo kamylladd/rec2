@@ -1,0 +1,26 @@
+body{
+    background-color: lightcoral;
+}
+
+
+.titulocarne{
+text-align: center;
+color: brown;
+}
+
+.ingredientes{ 
+    text-align: center;
+    color: brown;
+}
+
+.mododepreparo{
+    text-align:center ;
+    color: brown;
+}
+
+p{
+    font-size: 20px;
+    text-align: left;
+    margin: 15px;
+    margin-right: 200px;
+}

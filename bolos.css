@@ -1,0 +1,26 @@
+body{
+    background-color: lightsalmon;
+}
+
+
+.titulo{
+text-align: center;
+color: orange;
+}
+
+.ingredientes{ 
+    text-align: center;
+    color: orange;
+}
+
+.mododepreparo{
+    text-align:center ;
+    color: orange;
+}
+
+p{
+    font-size: 20px;
+    text-align: left;
+    margin: 15px;
+    margin-right: 200px;
+}
