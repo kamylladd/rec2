@@ -1,21 +1,21 @@
 body{
-    background-color: lightsalmon;
+    background-color: #ecc57d;
 }
 
 
 .titulo{
 text-align: center;
-color: orange;
+color: orangered;
 }
 
 .ingredientes{ 
     text-align: center;
-    color: orange;
+    color: orangered;
 }
 
 .mododepreparo{
     text-align:center ;
-    color: orange;
+    color: orangered;
 }
 
 p{
@@ -23,4 +23,11 @@ p{
     text-align: left;
     margin: 15px;
     margin-right: 200px;
+}
+
+img{
+    width:270px;
+    height: 270px;
+margin: 15px;
+margin-left: 200px;
 }

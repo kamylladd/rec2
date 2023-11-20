@@ -1,26 +1,27 @@
 body{
-    background-color: #dba6a6;
+    background-color: #cbf094;
 }
 
 
-.titulocarne{
+.titulo{
 text-align: center;
-color: brown;
+color: green;
 }
 
 .ingredientes{ 
     text-align: center;
-    color: brown;
+    color: green;
 }
 
-.mododepreparo{
+
+.preparo{
     text-align:center ;
-    color: brown;
+    color: green;
 }
 
 p{
     font-size: 20px;
-    text-align: left;
+    text-align: center;
     margin: 15px;
     margin-right: 200px;
 }
